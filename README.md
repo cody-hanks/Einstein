@@ -1,4 +1,0 @@
-Einstein
-========
-
-Einstein Robotics
